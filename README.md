@@ -74,7 +74,11 @@ Since this project uses CDNs, there is no installation process.
 ├── hotelbooking.jpeg # Project screenshot 2
 └── README.md         # Documentation
 
-## Project Demo Link: [http://127.0.0.1:5500/index.html]
+---
+
+## Project Demo Link: [http://127.0.0.1:5500/index.html](url)
+
+---
 
 📄 License
 
