@@ -7,7 +7,8 @@ Built with a focus on aesthetics and smooth user experience.
 
 ## 🎨 Preview
 
-> *[Insert a screenshot of your website here]*
+> *[<img width="1865" height="904" alt="image" src="https://github.com/user-attachments/assets/c53d2fe5-9e5c-42e9-85c9-74055db9e6df" />
+]*
 
 This portfolio is designed to showcase skills, projects, and experience in a modern, immersive environment. It features a "Space/Cyberpunk" aesthetic with deep slate backgrounds and neon gradients.
 
