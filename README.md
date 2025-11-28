@@ -1,5 +1,4 @@
-# port-repo
-#👩‍💻 Modern React Developer Portfolio
+# 👩‍💻 Modern React Developer Portfolio
 
 A stunning, responsive, and interactive single-page portfolio website built with React and Tailwind CSS. This project features a modern dark-themed aesthetic with glassmorphism effects, smooth animations, and a simulated AI chatbot.
 
